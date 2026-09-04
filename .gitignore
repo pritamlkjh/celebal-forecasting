@@ -1,4 +1,7 @@
 *.csv
+*.parquet
+*.pkl
+*.joblib
 data/
 .env
 *.key
@@ -6,5 +9,3 @@ kaggle.json
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
-*.pkl
-*.joblib
